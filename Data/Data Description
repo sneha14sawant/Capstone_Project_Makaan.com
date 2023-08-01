@@ -1,0 +1,37 @@
+Data Description:
+
+Dataset -1 details (Details about the properties/different features)
+1. Property Name: Name of the Property
+2. Property_id: ID number
+3. Property_type: Type of property (Apartment, Residential Plot, Independent Floor, Independent
+House, Villa)
+4. Property_status: Status of property (Ready to move/Under construction)
+5. Price_per_unit_area: Price per sq. feet area
+6. Posted_On: Time since posted 
+7. builder_id: ID number
+8. Builder name: Builder’s name
+9. Property_building_status: property build or not (active/inactive/unverified)
+10. No_of_BHK: Number of bedrooms
+11. Price: Price of the Property (Target Variable)
+12. Size: Total size of property in sq feet 
+13. Description: Description given by the people who posted
+14. is_furnished: Is (furnished,semi-furnished, unfurnished)
+15. listing_domain_score: domain score
+16. is_plot: Whether a plot or not
+17. is_RERA_registered: if registered under the real estate authority
+18. is_Apartment: Whether an apartment or not
+19. is_ready_to_move: Whether ready to move or not
+20. is_commercial_Listing: Whether a commercial or not
+21. is_PentaHouse: Whether penthouse or not
+22. is_studio: Whether studio or not
+23. Listing_Category: For selling or rent
+Dataset -2 Makaan_property_location_details
+1. Property_id: Unique Property ID 
+2. City_id: Unique ID of the city
+3. City_name: Unique city name
+4. Locality_ID: Unique Locality ID
+5. Locality_Name: Unique locality name
+6. Longitude: Longitudinal Co-ordinates
+7. Latitude: Latitudinal Co-ordinates
+8. Sub_urban_ID: Unique sub urban id 
+9. Sub_urban_name: Unique sub urban nam
