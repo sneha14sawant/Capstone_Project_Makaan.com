@@ -25,6 +25,7 @@ House, Villa)
 21. is_PentaHouse: Whether penthouse or not
 22. is_studio: Whether studio or not
 23. Listing_Category: For selling or rent
+
 Dataset -2 Makaan_property_location_details
 1. Property_id: Unique Property ID 
 2. City_id: Unique ID of the city
