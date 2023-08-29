@@ -8,8 +8,7 @@
 
 ##### Require Proper presentation of the Project with proper Inference, Coding, and Output Analysis.     
 ##### Tools Can be Used  - Python, Tableau, SQL, Excel.     
-
-##### Report of the Entire Case Study should be properly Built-in Word Format. Low-Level Document (LLD) has to be prepared with every minute detail of the study.     
+##### Report of the Entire Case Study should be properly Built-in Word Format.   
 
 ##### To view Jupyter Notebook click [here](https://github.com/sneha14sawant/Capstone_Project_Makaan.com/blob/8372c85a6a22a49ec585ceb6f37e7446b16f82cb/Code/Capstone%20project--Makaan----Final.ipynb)     
 ##### To view Viz on Tableau Public click [here](https://public.tableau.com/app/profile/sneha.sawant/viz/Analysisofpredictedpropertyprices--Makaan/Dashboard1)
